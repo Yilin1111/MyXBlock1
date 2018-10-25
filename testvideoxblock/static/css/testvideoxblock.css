@@ -1,0 +1,13 @@
+/* CSS for TestVideoXBlock */
+
+.testvideoxblock_block .count {
+    font-weight: bold;
+}
+
+.testvideoxblock_block p {
+    cursor: pointer;
+}
+
+.open56 {
+    margin: 10px 0;
+}
